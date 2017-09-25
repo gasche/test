@@ -2,7 +2,7 @@
 
 Test A (info A)
 
-Test B
+Test B (info B)
 
 Test C
 
