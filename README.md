@@ -6,4 +6,4 @@ Test B (info B)
 
 Test C (info C)
 
-Test D
+Test D (info D)
